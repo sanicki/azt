@@ -64,13 +64,13 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 8.4](https://www.ifit.com/workout/62f41305717131001070c144): S Pistol Hill Rd to Saguaro National Park East ([3.8 mi](https://www.google.com/maps/dir/32.0913081,-110.6244013/32.1296244,-110.6447446/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 9](https://aztrail.org/explore/passages/passage-9-rincon-mountains/): Rincon Mountains (24.6 mi)
-- [Workout 9.1](): Saguaro National Park East to S X9 Ranch Rd ([3.7 mi](https://www.google.com/maps/dir/32.1296244,-110.6447446/32.1472796,-110.6105922/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 9.2](): S X9 Ranch Rd to Trail Jct ([2.3 mi](https://www.google.com/maps/dir/32.1472796,-110.6105922/32.1690578,-110.6141892/@32.1578167,-110.6185024,3656m/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 9.3](): Trail Jct to Grass Shack ([3.0 mi](https://www.google.com/maps/dir/32.1690578,-110.6141892/32.1838342,-110.5925953/@32.1767032,-110.6133157,3655m/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 9.4](): Grass Shack to Manning Camp ([4.4 mi](https://www.google.com/maps/dir/32.1838342,-110.5925953/32.2072822,-110.5548949/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 9.5](): Manning Camp to Mica Mountain ([3.5 mi](https://www.google.com/maps/dir/32.2072822,-110.5548949/32.2347054,-110.5327459/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 9.6](): Mica Mountain to Park Tank ([3.4 mi](https://www.google.com/maps/dir/32.2347054,-110.5327459/32.2714596,-110.5490242/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 9.7](): Park Tank to Reddington Rd ([3.9 mi](https://www.google.com/maps/dir/32.2714596,-110.5490242/32.3062777,-110.5742677/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 9.1](https://www.ifit.com/workout/62f51d934d5a4b0011ee6a5c): Saguaro National Park East to S X9 Ranch Rd ([3.7 mi](https://www.google.com/maps/dir/32.1296244,-110.6447446/32.1472796,-110.6105922/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 9.2](https://www.ifit.com/workout/62f51e0f470b760010ab00d2): S X9 Ranch Rd to Trail Jct ([2.3 mi](https://www.google.com/maps/dir/32.1472796,-110.6105922/32.1690578,-110.6141892/@32.1578167,-110.6185024,3656m/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 9.3](https://www.ifit.com/workout/62f51ee93312f700100a3210): Trail Jct to Grass Shack ([3.0 mi](https://www.google.com/maps/dir/32.1690578,-110.6141892/32.1838342,-110.5925953/@32.1767032,-110.6133157,3655m/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 9.4](https://www.ifit.com/workout/62f51fb30d3b780011e90383): Grass Shack to Manning Camp ([4.4 mi](https://www.google.com/maps/dir/32.1838342,-110.5925953/32.2072822,-110.5548949/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 9.5](https://www.ifit.com/workout/62f5205e1656d000107e1d81): Manning Camp to Mica Mountain ([3.5 mi](https://www.google.com/maps/dir/32.2072822,-110.5548949/32.2347054,-110.5327459/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 9.6](https://www.ifit.com/workout/62f520f4ae72180011c94993): Mica Mountain to Park Tank ([3.4 mi](https://www.google.com/maps/dir/32.2347054,-110.5327459/32.2714596,-110.5490242/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 9.7](https://www.ifit.com/workout/62f5219f8e75680010b9eb57): Park Tank to Reddington Rd ([3.9 mi](https://www.google.com/maps/dir/32.2714596,-110.5490242/32.3062777,-110.5742677/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 10](https://aztrail.org/explore/passages/passage-10-redington-pass/): Redington Pass (13.2 mi) ✔️
 - [Workout 10.1](): Reddington Rd to The Lake ([4.4 mi](https://www.google.com/maps/dir/32.3062777,-110.5742677/32.3210097,-110.6218098/data=!3m1!1e3!4m2!4m1!3e2))
