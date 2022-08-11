@@ -73,7 +73,7 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 9.7](https://www.ifit.com/workout/62f5219f8e75680010b9eb57): Park Tank to Reddington Rd ([3.9 mi](https://www.google.com/maps/dir/32.2714596,-110.5490242/32.3062777,-110.5742677/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 10](https://aztrail.org/explore/passages/passage-10-redington-pass/): Redington Pass (13.2 mi) ✔️
-- [Workout 10.1](): Reddington Rd to The Lake ([4.4 mi](https://www.google.com/maps/dir/32.3062777,-110.5742677/32.3210097,-110.6218098/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 10.1](): Reddington Rd to The Lake ([4.4 mi](https://www.google.com/maps/dir/32.3062777,-110.5742677/32.3210097,-110.6218098/@32.3163818,-110.6092429,6224m/data=!3m1!1e3!4m9!4m8!1m5!3m4!1m2!1d-110.5920488!2d32.3167207!3s0x86d6441a6a34dd63:0xf9dbcff647fbe142!1m0!3e2))
 - [Workout 10.2](): The Lake to West Spring Tank ([3.9 mi](https://www.google.com/maps/dir/32.3210097,-110.6218098/32.3294454,-110.6746382/data=!3m1!1e3!4m2!4m1!3e2))
 - [Workout 10.3](): West Spring Tank to Molino Basin Trailhead ([2.4 mi](https://www.google.com/maps/dir/32.3294454,-110.6746382/32.3370173,-110.6916774/data=!3m1!1e3!4m9!4m8!1m5!3m4!1m2!1d-110.6905977!2d32.3375983!3s0x86d641c0358d4723:0xbe5f686160d75342!1m0!3e2))
 - [Workout 10.4](): Molino Basin Trailhead to Gordon Hirabayashi Campground ([2.8 mi](https://www.google.com/maps/dir/32.3370173,-110.6916774/32.3356704,-110.7239087/data=!4m9!4m8!1m5!3m4!1m2!1d-110.6977851!2d32.3342008!3s0x86d641e820a56247:0xb99a672fb8ccd488!1m0!3e2))
