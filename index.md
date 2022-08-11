@@ -88,10 +88,10 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 11.5](https://www.ifit.com/workout/62f5469a8b22550011da95e1): Sutherland Trailhead to Unnamed Location ([3.8 mi](https://www.google.com/maps/dir/32.4299209,-110.8066746/32.4661805,-110.8005685/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 12](https://aztrail.org/explore/passages/passage-12-oracle-ridge/): Oracle Ridge (15.5 mi) ✔️
-- [Workout 12.1](): Unnamed Location to Catalina Camp ([4.7 mi](https://www.google.com/maps/dir/32.4661805,-110.8005685/32.479849,-110.7625964/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 12.2](): Catalina Camp to FR4483/FR4475 Intersection ([4.7 mi](https://www.google.com/maps/dir/32.479849,-110.7625964/32.5211612,-110.7526258/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 12.3](): FR4483/FR4475 Intersection to Campo Bonito Rd ([3.9 mi](https://www.google.com/maps/dir/32.5211612,-110.7526258/32.5675983,-110.7533974/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 12.4](): Campo Bonito Rd to American Flag Trailhead ([3.7 mi](https://www.google.com/maps/dir/32.5675983,-110.7533974/32.5808574,-110.7203268/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 12.1](https://www.ifit.com/workout/62f558e2d195680011da271f): Unnamed Location to Catalina Camp ([4.7 mi](https://www.google.com/maps/dir/32.4661805,-110.8005685/32.479849,-110.7625964/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 12.2](https://www.ifit.com/workout/62f55964c171ac0011f52c39): Catalina Camp to FR4483/FR4475 Intersection ([4.7 mi](https://www.google.com/maps/dir/32.479849,-110.7625964/32.5211612,-110.7526258/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 12.3](https://www.ifit.com/workout/62f55a1f0a63e3001086b81a): FR4483/FR4475 Intersection to Campo Bonito Rd ([3.9 mi](https://www.google.com/maps/dir/32.5211612,-110.7526258/32.5675983,-110.7533974/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 12.4](https://www.ifit.com/workout/62f55b6037b33c00109a3171): Campo Bonito Rd to American Flag Trailhead ([3.7 mi](https://www.google.com/maps/dir/32.5675983,-110.7533974/32.5808574,-110.7203268/@32.5740473,-110.7445719,7279m/data=!3m1!1e3!4m9!4m8!1m5!3m4!1m2!1d-110.7400778!2d32.5755105!3s0x86d618253cacac53:0xc74d7869824ec9da!1m0!3e2))
 
 #### [Passage 13](https://aztrail.org/explore/passages/passage-13-oracle/): Oracle (8.6 mi) ✔️
 - [Workout 13.1](): American Flag Trailhead to Oracle State Park ([2.3 mi](https://www.google.com/maps/dir/32.5808574,-110.7203268/32.6036596,-110.7111443/data=!3m1!1e3!4m14!4m13!1m10!3m4!1m2!1d-110.7199698!2d32.5806603!3s0x86d6180f37ed824d:0xb42cf42fa8a7552e!3m4!1m2!1d-110.71736!2d32.5829183!3s0x86d618090b513ee9:0x8f919157a69e412a!1m0!3e2))
