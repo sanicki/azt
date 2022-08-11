@@ -120,10 +120,10 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 15.7](https://www.ifit.com/workout/62f57485bb0cca0010b17d93): Unnamed Location to Grand Enchantment Trailhead ([4.8 mi](https://www.google.com/maps/dir/33.0616692,-110.983749/33.1073964,-110.9827394/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 16](https://aztrail.org/explore/passages/passage-16-gila-river-canyons/): Gila River Canyons (26.0 mi)
-- [Workout 16.1](): Grand Enchantment Trailhead to Unnamed Wash ([3.7 mi](https://www.google.com/maps/dir/33.1073964,-110.9827394/33.1151729,-111.0298342/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 16.2](): Unnamed Wash to Unnamed Wash ([3.2 mi](https://www.google.com/maps/dir/33.1151729,-111.0298342/33.1187359,-111.0701254/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 16.3](): Unnamed Wash to White Canyon ([3.6 mi](https://www.google.com/maps/dir/33.1187359,-111.0701254/33.1582374,-111.0813082/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 16.4](): White Canyon to Unnamed Rd ([4.7 mi](https://www.google.com/maps/dir/33.1582374,-111.0813082/33.1864469,-111.1360279/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 16.1](https://www.ifit.com/workout/62f5757c3e47ca0010bdc2fd): Grand Enchantment Trailhead to Unnamed Wash ([3.7 mi](https://www.google.com/maps/dir/33.1073964,-110.9827394/33.1151729,-111.0298342/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 16.2](https://www.ifit.com/workout/62f5761ee56ed900112b2720): Unnamed Wash to Unnamed Wash ([3.2 mi](https://www.google.com/maps/dir/33.1151729,-111.0298342/33.1187359,-111.0701254/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 16.3](https://www.ifit.com/workout/62f576c8e8379f0010449dea): Unnamed Wash to White Canyon ([3.6 mi](https://www.google.com/maps/dir/33.1187359,-111.0701254/33.1582374,-111.0813082/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 16.4](https://www.ifit.com/workout/62f57753e9316900116c7883): White Canyon to Unnamed Rd ([4.7 mi](https://www.google.com/maps/dir/33.1582374,-111.0813082/33.1864469,-111.1360279/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 17](https://aztrail.org/explore/passages/passage-17-alamo-canyon/): Alamo Canyon (11.7 mi)
 - [Workout 17.1](): Unnamed Rd to N Telegraph Canyon Rd ([3.1 mi](https://www.google.com/maps/dir/33.1864469,-111.1360279/33.2177831,-111.1479399/data=!3m1!1e3!4m2!4m1!3e2))
