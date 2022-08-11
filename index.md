@@ -101,14 +101,14 @@ A ✔️ indicates that I have completed the official passage IRL.
 ### Central Passages
 
 #### [Passage 14](https://aztrail.org/explore/passages/passage-14-black-hills/): Black Hills (27.8 mi) ✔️
-- [Workout 14.1](): Tiger Mine Road Trailhead to Tucson Wash Rd ([4.4 mi](https://www.google.com/maps/dir/32.6503629,-110.7314598/32.682933,-110.7521099/data=!3m2!1e3!4b1!4m2!4m1!3e2))
-- [Workout 14.2](): Tucson Wash Rd to Hidden Tank ([3.7 mi](https://www.google.com/maps/dir/32.682933,-110.7521099/32.7233582,-110.7779896/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 14.3](): Hidden Tank to Unnamed Rd ([3.1 mi](https://www.google.com/maps/dir/32.7233582,-110.7779896/32.7589063,-110.8082232/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 14.4](): Unnamed Rd to Unnamed Location ([3.6 mi](https://www.google.com/maps/dir/32.7589063,-110.8082232/32.8006892,-110.8432622/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 14.5](): Unnamed Location to Grand Enchantment Trail ([4.1 mi](https://www.google.com/maps/dir/32.8006892,-110.8432622/32.824042,-110.8072322/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 14.6](): Grand Enchantment Trail to Antelope Tank ([2.5 mi](https://www.google.com/maps/dir/32.824042,-110.8072322/32.8357956,-110.8361557/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 14.7](): Antelope Tank to Unnamed Location ([2.8 mi](https://www.google.com/maps/dir/32.8357956,-110.8361557/32.8554518,-110.8542794/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 14.8](): Unnamed Location to Freeman Road Trailhead ([3.0 mi](https://www.google.com/maps/dir/32.8554518,-110.8542794/32.871427,-110.8836703/data=!3m1!1e3!4m9!4m8!1m5!3m4!1m2!1d-110.8776099!2d32.8728787!3s0x8729e542131b9e65:0xe46ac928980b83a3!1m0!3e2))
+- [Workout 14.1](https://www.ifit.com/workout/62f561626f4d370010c9b7f0): Tiger Mine Road Trailhead to Tucson Wash Rd ([4.4 mi](https://www.google.com/maps/dir/32.6503629,-110.7314598/32.682933,-110.7521099/data=!3m2!1e3!4b1!4m2!4m1!3e2))
+- [Workout 14.2](https://www.ifit.com/workout/62f56277f389ee00103856ed): Tucson Wash Rd to Hidden Tank ([3.7 mi](https://www.google.com/maps/dir/32.682933,-110.7521099/32.7233582,-110.7779896/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 14.3](https://www.ifit.com/workout/62f56342f389ee001038570f): Hidden Tank to Unnamed Rd ([3.1 mi](https://www.google.com/maps/dir/32.7233582,-110.7779896/32.7589063,-110.8082232/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 14.4](https://www.ifit.com/workout/62f56495477dbb00108ab1c2): Unnamed Rd to Unnamed Location ([3.6 mi](https://www.google.com/maps/dir/32.7589063,-110.8082232/32.8006892,-110.8432622/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 14.5](https://www.ifit.com/workout/62f5656437b33c00109a3256): Unnamed Location to Grand Enchantment Trail ([4.1 mi](https://www.google.com/maps/dir/32.8006892,-110.8432622/32.824042,-110.8072322/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 14.6](https://www.ifit.com/workout/62f566068f6d3f00102d28ca): Grand Enchantment Trail to Antelope Tank ([2.5 mi](https://www.google.com/maps/dir/32.824042,-110.8072322/32.8357956,-110.8361557/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 14.7](https://www.ifit.com/workout/62f566b38f6d3f00102d28fc): Antelope Tank to Unnamed Location ([2.8 mi](https://www.google.com/maps/dir/32.8357956,-110.8361557/32.8554518,-110.8542794/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 14.8](https://www.ifit.com/workout/62f5676437b33c00109a3274): Unnamed Location to Freeman Road Trailhead ([3.0 mi](https://www.google.com/maps/dir/32.8554518,-110.8542794/32.871427,-110.8836703/data=!3m1!1e3!4m9!4m8!1m5!3m4!1m2!1d-110.8776099!2d32.8728787!3s0x8729e542131b9e65:0xe46ac928980b83a3!1m0!3e2))
 
 #### [Passage 15](https://aztrail.org/explore/passages/passage-15-tortilla-mountains/): Tortilla Mountains (28.1 mi) ✔️
 - [Workout 15.1](): Freeman Road Trailhead to Unnamed Rd ([3.6 mi](https://www.google.com/maps/dir/32.871427,-110.8836703/32.8992337,-110.923177/data=!3m1!1e3!4m9!4m8!1m5!3m4!1m2!1d-110.9062819!2d32.8863129!3s0x8729f0054d3e6709:0x30b8389cb87fd38d!1m0!3e2))
