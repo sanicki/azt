@@ -4,7 +4,9 @@ The trail is divided into 43 individual passages climbing and descending from on
 
 In my spare time I am in the process of section-hiking the AZT, a hobby that could take a few years to complete.
 
-Below are custom workouts I have created using Google Maps to train for my hike using an [iFit](https://ifit.com)-enabled elliptical. Each passage is split into several workouts of a few miles each for greatest configurability. Due to inconsistencies in Google Maps some passages use alternate routes which in some cases result in wildly different mile totals for the passage.
+Below are 208 custom workouts I have created using Google Maps to train for my hike using an [iFit](https://ifit.com)-enabled elliptical.
+
+Each passage is split into several workouts of a few miles each for greatest configurability. Due to inconsistencies in Google Maps some passages use alternate routes which in some cases result in wildly different mile totals for the passage.
 
 A ✔️ indicates that I have completed the official passage IRL.
 
