@@ -10,6 +10,8 @@ Each passage is split into several workouts of a few miles each for greatest con
 
 A ✔️ indicates that I have completed the official passage IRL.
 
+### Southern Passages
+
 #### [Passage 1](https://aztrail.org/explore/passages/passage-1-huachuca-mountains/): Huachuca Mountains (20.8 mi) ✔️
 - [Workout 1.1](https://www.ifit.com/workout/62365c0296e0560008babbf7): U.S.-Mexico Border to Montezuma Pass ([1.8 mi](https://www.google.com/maps/dir/31.333603,-110.282818/31.3512417,-110.2852399/data=!3m1!1e3!4m2!4m1!3e2))
 - [Workout 1.2](https://www.ifit.com/workout/62365d59766a57000895a6ba): Montezuma Pass to Miller Peak ([4.3 mi](https://www.google.com/maps/dir/31.3512417,-110.2852399/31.3915187,-110.2959206/data=!3m1!1e3!4m2!4m1!3e2))
@@ -95,6 +97,8 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 13.1](): American Flag Trailhead to Oracle State Park ([2.3 mi](https://www.google.com/maps/dir/32.5808574,-110.7203268/32.6036596,-110.7111443/data=!3m1!1e3!4m14!4m13!1m10!3m4!1m2!1d-110.7199698!2d32.5806603!3s0x86d6180f37ed824d:0xb42cf42fa8a7552e!3m4!1m2!1d-110.71736!2d32.5829183!3s0x86d618090b513ee9:0x8f919157a69e412a!1m0!3e2))
 - [Workout 13.2](): Oracle State Park to AZ-77 ([4.0 mi](https://www.google.com/maps/dir/32.6036596,-110.7111443/32.6284892,-110.7423985/data=!3m1!1e3!4m2!4m1!3e2))
 - [Workout 13.3](): AZ-77 to Tiger Mine Road Trailhead ([1.8 mi](https://www.google.com/maps/dir/32.6284892,-110.7423985/32.6503629,-110.7314598/data=!3m1!1e3!4m2!4m1!3e2))
+
+### Central Passages
 
 #### [Passage 14](https://aztrail.org/explore/passages/passage-14-black-hills/): Black Hills (27.8 mi) ✔️
 - [Workout 14.1](): Tiger Mine Road Trailhead to Tucson Wash Rd ([4.4 mi](https://www.google.com/maps/dir/32.6503629,-110.7314598/32.682933,-110.7521099/data=!3m2!1e3!4b1!4m2!4m1!3e2))
@@ -189,6 +193,8 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 26.3](): NF440 to N Sycamore Creek ([3.9 mi](https://www.google.com/maps/dir/34.4007772,-111.3655194/34.4177535,-111.3178374/data=!3m1!1e3!4m2!4m1!3e2))
 - [Workout 26.4](): N Sycamore Creek to Washington Park Trailhead ([4.2 mi](https://www.google.com/maps/dir/34.4177535,-111.3178374/34.4308212,-111.2612414/data=!3m1!1e3!4m2!4m1!3e2))
 - [Workout 26.5](): Washington Park Trailhead to Old Rim Rd ([1.8 mi](https://www.google.com/maps/dir/34.4308212,-111.2612414/34.4538168,-111.250791/data=!3m1!1e3!4m2!4m1!3e2))
+
+### Northern Passages
 
 #### [Passage 27](https://aztrail.org/explore/passages/passage-27-blue-ridge/): Blue Ridge (15.4 mi)
 - [Workout 27.1](): Old Rim Rd to Private Rd ([3.9 mi](https://www.google.com/maps/dir/34.4538168,-111.250791/34.4954781,-111.2350644/data=!3m1!1e3!4m2!4m1!3e2))
