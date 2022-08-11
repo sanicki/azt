@@ -81,11 +81,11 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 10.4](https://www.ifit.com/workout/62f52770ff3f800011a0a86e): Molino Basin Trailhead to Gordon Hirabayashi Campground ([2.8 mi](https://www.google.com/maps/dir/32.3370173,-110.6916774/32.3356704,-110.7239087/@32.335888,-110.7253016,7298m/data=!3m2!1e3!4b1!4m9!4m8!1m5!3m4!1m2!1d-110.6977851!2d32.3342008!3s0x86d641e820a56247:0xb99a672fb8ccd488!1m0!3e2))
 
 #### [Passage 11](https://aztrail.org/explore/passages/passage-11-santa-catalina-mountains/): Santa Catalina Mountains (18.5 mi)
-- [Workout 11.1](): Gordon Hirabayashi Campground to Trail Jct ([3.0 mi](https://www.google.com/maps/dir/32.3356704,-110.7239087/32.3593277,-110.7571733/data=!3m1!1e3!4m14!4m13!1m10!3m4!1m2!1d-110.7336959!2d32.342072!3s0x86d66a5e7d9c7c2f:0xba1fe8eb903f7932!3m4!1m2!1d-110.7443006!2d32.3478745!3s0x86d66a5881068c15:0x156c18b4a8a1233c!1m0!3e2))
-- [Workout 11.2](): Trail Jct to Hutch's Pool ([3.5 mi](https://www.google.com/maps/dir/32.3593277,-110.7571733/32.3742661,-110.7927644/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 11.3](): Hutch's Pool to Romero Pass ([4.7 mi](https://www.google.com/maps/dir/32.3742661,-110.7927644/32.3995062,-110.8301493/data=!4m2!4m1!3e2))
-- [Workout 11.4](): Romero Pass to Sutherland Trailhead ([3.5 mi](https://www.google.com/maps/dir/32.3995062,-110.8301493/32.4299209,-110.8066746/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 11.5](): Sutherland Trailhead to Unnamed Location ([3.8 mi](https://www.google.com/maps/dir/32.4299209,-110.8066746/32.4661805,-110.8005685/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 11.1](https://www.ifit.com/workout/62f54054dd5df8001057dcb7): Gordon Hirabayashi Campground to Trail Jct ([3.0 mi](https://www.google.com/maps/dir/32.3356704,-110.7239087/32.3593277,-110.7571733/data=!3m1!1e3!4m14!4m13!1m10!3m4!1m2!1d-110.7336959!2d32.342072!3s0x86d66a5e7d9c7c2f:0xba1fe8eb903f7932!3m4!1m2!1d-110.7443006!2d32.3478745!3s0x86d66a5881068c15:0x156c18b4a8a1233c!1m0!3e2))
+- [Workout 11.2](https://www.ifit.com/workout/62f54120ebe871001142cd1d): Trail Jct to Hutch's Pool ([3.5 mi](https://www.google.com/maps/dir/32.3593277,-110.7571733/32.3742661,-110.7927644/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 11.3](https://www.ifit.com/workout/62f54438cab773001081501b): Hutch's Pool to Romero Pass ([4.7 mi](https://www.google.com/maps/dir/32.3742661,-110.7927644/32.3995062,-110.8301493/@32.3868203,-110.8289659,7294m/data=!3m2!1e3!4b1!4m2!4m1!3e2))
+- [Workout 11.4](https://www.ifit.com/workout/62f544de03fc2d0010c620ff): Romero Pass to Sutherland Trailhead ([3.5 mi](https://www.google.com/maps/dir/32.3995062,-110.8301493/32.4299209,-110.8066746/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 11.5](https://www.ifit.com/workout/62f5469a8b22550011da95e1): Sutherland Trailhead to Unnamed Location ([3.8 mi](https://www.google.com/maps/dir/32.4299209,-110.8066746/32.4661805,-110.8005685/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 12](https://aztrail.org/explore/passages/passage-12-oracle-ridge/): Oracle Ridge (15.5 mi) ✔️
 - [Workout 12.1](): Unnamed Location to Catalina Camp ([4.7 mi](https://www.google.com/maps/dir/32.4661805,-110.8005685/32.479849,-110.7625964/data=!3m1!1e3!4m2!4m1!3e2))
