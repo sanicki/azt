@@ -126,9 +126,9 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 16.4](https://www.ifit.com/workout/62f57753e9316900116c7883): White Canyon to Unnamed Rd ([4.7 mi](https://www.google.com/maps/dir/33.1582374,-111.0813082/33.1864469,-111.1360279/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 17](https://aztrail.org/explore/passages/passage-17-alamo-canyon/): Alamo Canyon (11.7 mi)
-- [Workout 17.1](): Unnamed Rd to N Telegraph Canyon Rd ([3.1 mi](https://www.google.com/maps/dir/33.1864469,-111.1360279/33.2177831,-111.1479399/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 17.2](): N Telegraph Canyon Rd to Unnanmed Wash ([3.6 mi](https://www.google.com/maps/dir/33.2177831,-111.1479399/33.2494306,-111.1690817/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 17.3](): Unnanmed Wash to Picketpost Mountain Trailhead ([2.5 mi](https://www.google.com/maps/dir/33.2494306,-111.1690817/33.272089,-111.1766196/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 17.1](https://www.ifit.com/workout/6334db37001619001020cf5f): Unnamed Rd to N Telegraph Canyon Rd ([3.1 mi](https://www.google.com/maps/dir/33.1864469,-111.1360279/33.2177831,-111.1479399/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 17.2](https://www.ifit.com/workout/6334dbc47830ca001177a8bb): N Telegraph Canyon Rd to Unnanmed Wash ([3.6 mi](https://www.google.com/maps/dir/33.2177831,-111.1479399/33.2494306,-111.1690817/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 17.3](https://www.ifit.com/workout/6334dc5aa67ea5001210e39f): Unnanmed Wash to Picketpost Mountain Trailhead ([2.5 mi](https://www.google.com/maps/dir/33.2494306,-111.1690817/33.272089,-111.1766196/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 18](https://aztrail.org/explore/passages/passage-18-reavis-canyon/): Reavis Canyon (18.4 mi)
 - [Workout 18.1](): Picketpost Mountain Trailhead to Unnamed Rd ([4.7 mi](https://www.google.com/maps/dir/33.272089,-111.1766196/33.3150609,-111.1540865/data=!3m1!1e3!4m2!4m1!3e2))
