@@ -131,10 +131,10 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 17.3](https://www.ifit.com/workout/6334dc5aa67ea5001210e39f): Unnanmed Wash to Picketpost Mountain Trailhead ([2.5 mi](https://www.google.com/maps/dir/33.2494306,-111.1690817/33.272089,-111.1766196/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 18](https://aztrail.org/explore/passages/passage-18-reavis-canyon/): Reavis Canyon (18.4 mi)
-- [Workout 18.1](): Picketpost Mountain Trailhead to Unnamed Rd ([4.7 mi](https://www.google.com/maps/dir/33.272089,-111.1766196/33.3150609,-111.1540865/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 18.2](): Unnamed Rd to N Happy Camp Canyon Rd ([2.8 mi](https://www.google.com/maps/dir/33.3150609,-111.1540865/33.341662,-111.1329122/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 18.3](): N Happy Camp Canyon Rd to Unnamed Location ([4.9 mi](https://www.google.com/maps/dir/33.341662,-111.1329122/33.3873168,-111.1388013/data=!3m1!1e3!4m9!4m8!1m5!3m4!1m2!1d-111.1327628!2d33.3415461!3s0x872a2adcf5fd2c01:0x72aa2478ce088d6d!1m0!3e2))
-- [Workout 18.4](): Unnamed Location to Rogers Trough Trailhead ([4.7 mi](https://www.google.com/maps/dir/33.3873168,-111.1388013/33.4221587,-111.1732206/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 18.1](https://www.ifit.com/workout/6334dd971397330011353dde): Picketpost Mountain Trailhead to Unnamed Rd ([4.7 mi](https://www.google.com/maps/dir/33.272089,-111.1766196/33.3150609,-111.1540865/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 18.2](https://www.ifit.com/workout/6334de34a67ea5001210e41d): Unnamed Rd to N Happy Camp Canyon Rd ([2.8 mi](https://www.google.com/maps/dir/33.3150609,-111.1540865/33.341662,-111.1329122/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 18.3](https://www.ifit.com/workout/6334ded97ececd0011c59c4a): N Happy Camp Canyon Rd to Unnamed Location ([4.9 mi](https://www.google.com/maps/dir/33.341662,-111.1329122/33.3873168,-111.1388013/data=!3m1!1e3!4m9!4m8!1m5!3m4!1m2!1d-111.1327628!2d33.3415461!3s0x872a2adcf5fd2c01:0x72aa2478ce088d6d!1m0!3e2))
+- [Workout 18.4](https://www.ifit.com/workout/6334dfcc001619001020d016): Unnamed Location to Rogers Trough Trailhead ([4.7 mi](https://www.google.com/maps/dir/33.3873168,-111.1388013/33.4221587,-111.1732206/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 19](https://aztrail.org/explore/passages/passage-19-superstition-wilderness/): Superstition Wilderness (29.4 mi)
 - [Workout 19.1](): Rogers Trough Trailhead to Reavis Saddle Spring ([3.8 mi](https://www.google.com/maps/dir/33.4221587,-111.1732206/33.4558197,-111.1730438/data=!3m1!1e3!4m2!4m1!3e2))
