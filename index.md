@@ -147,11 +147,11 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 19.8](https://www.ifit.com/workout/6334e64e859c5a00122da21c): Unnamed Rd to Theodore Roosevelt Lake ([3.3 mi](https://www.google.com/maps/dir/33.6591576,-111.1384104/33.6765199,-111.1609895/@33.6703051,-111.153452,3022m/data=!3m1!1e3!4m19!4m18!1m15!3m4!1m2!1d-111.1377427!2d33.6655649!3s0x872bdfac6271c939:0x6583a25cd6f6eb42!3m4!1m2!1d-111.1491657!2d33.6721569!3s0x872bde48e7486ed7:0x135851e640da68a3!3m4!1m2!1d-111.1492208!2d33.6721879!3s0x872bde48e7486ed7:0x135851e640da68a3!1m0!3e2))
 
 #### [Passage 20](https://aztrail.org/explore/passages/passage-20-four-peaks/): Four Peaks (19.0 mi)
-- [Workout 20.1](): Theodore Roosevelt Lake to Unnamed Rd ([4.1 mi](https://www.google.com/maps/dir/33.6765199,-111.1609895/33.669804,-111.2130322/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 20.2](): Unnamed Rd to Unnamed Location ([3.5 mi](https://www.google.com/maps/dir/33.669804,-111.2130322/33.6632385,-111.2567906/data=!3m2!1e3!4b1!4m2!4m1!3e2))
-- [Workout 20.3](): Unnamed Location to Unnamed Location ([3.8 mi](https://www.google.com/maps/dir/33.6632385,-111.2567906/33.6674716,-111.2882895/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 20.4](): Unnamed Location to Unnamed Location ([3.5 mi](https://www.google.com/maps/dir/33.6674716,-111.2882895/33.6873798,-111.3100907/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 20.5](): Unnamed Location to Pigeon Spring Rd ([3.7 mi](https://www.google.com/maps/dir/33.6873798,-111.3100907/33.7108488,-111.336852/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 20.1](https://www.ifit.com/workout/6392a5881cdf3c0010ac6429): Theodore Roosevelt Lake to Unnamed Rd ([4.1 mi](https://www.google.com/maps/dir/33.6765199,-111.1609895/33.669804,-111.2130322/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 20.2](https://www.ifit.com/workout/6392a68e2d70650010c9de20): Unnamed Rd to Unnamed Location ([3.5 mi](https://www.google.com/maps/dir/33.669804,-111.2130322/33.6632385,-111.2567906/data=!3m2!1e3!4b1!4m2!4m1!3e2))
+- [Workout 20.3](https://www.ifit.com/workout/6392a7528e5a810011e43702): Unnamed Location to Unnamed Location ([3.8 mi](https://www.google.com/maps/dir/33.6632385,-111.2567906/33.6674716,-111.2882895/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 20.4](https://www.ifit.com/workout/6392a86f6ca838000e5c2a7e): Unnamed Location to Unnamed Location ([3.5 mi](https://www.google.com/maps/dir/33.6674716,-111.2882895/33.6873798,-111.3100907/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 20.5](https://www.ifit.com/workout/6392a9105b36b30012cf1dbf): Unnamed Location to Pigeon Spring Rd ([3.7 mi](https://www.google.com/maps/dir/33.6873798,-111.3100907/33.7108488,-111.336852/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 21](https://aztrail.org/explore/passages/passage-21-pine-mountain/): Pine Mountain (19.3 mi)
 - [Workout 21.1](): Pigeon Spring Rd to Mazatzal Divide Trail ([3.8 mi](https://www.google.com/maps/dir/33.7108488,-111.336852/33.7458006,-111.3702065/data=!3m1!1e3!4m2!4m1!3e2))
