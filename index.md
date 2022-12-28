@@ -154,11 +154,11 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 20.5](https://www.ifit.com/workout/6392a9105b36b30012cf1dbf): Unnamed Location to Pigeon Spring Rd ([3.7 mi](https://www.google.com/maps/dir/33.6873798,-111.3100907/33.7108488,-111.336852/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 21](https://aztrail.org/explore/passages/passage-21-pine-mountain/): Pine Mountain (19.3 mi)
-- [Workout 21.1](): Pigeon Spring Rd to Mazatzal Divide Trail ([3.8 mi](https://www.google.com/maps/dir/33.7108488,-111.336852/33.7458006,-111.3702065/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 21.2](): Mazatzal Divide Trail to El Oso Rd ([3.5 mi](https://www.google.com/maps/dir/33.7458006,-111.3702065/33.7738379,-111.3871151/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 21.3](): El Oso Rd to Trail Jct ([3.6 mi](https://www.google.com/maps/dir/33.7738379,-111.3871151/33.8146983,-111.3834274/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 21.4](): Trail Jct to Unnamed Rd ([4.1 mi](https://www.google.com/maps/dir/33.8146983,-111.3834274/33.8417936,-111.4260122/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 21.5](): Unnamed Rd to Sunflower Farms ([4.1 mi](https://www.google.com/maps/dir/33.8417936,-111.4260122/33.862428,-111.4724182/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 21.1](https://www.ifit.com/workout/63ac5c51de3d310010ac99d4): Pigeon Spring Rd to Mazatzal Divide Trail ([3.8 mi](https://www.google.com/maps/dir/33.7108488,-111.336852/33.7458006,-111.3702065/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 21.2](https://www.ifit.com/workout/63ac5cf5de3d310010ac9a37): Mazatzal Divide Trail to El Oso Rd ([3.5 mi](https://www.google.com/maps/dir/33.7458006,-111.3702065/33.7738379,-111.3871151/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 21.3](https://www.ifit.com/workout/63ac5d97c925d0000f717134): El Oso Rd to Trail Jct ([3.6 mi](https://www.google.com/maps/dir/33.7738379,-111.3871151/33.8146983,-111.3834274/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 21.4](https://www.ifit.com/workout/63ac5e2e1c7a9e001025e38d): Trail Jct to Unnamed Rd ([4.1 mi](https://www.google.com/maps/dir/33.8146983,-111.3834274/33.8417936,-111.4260122/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 21.5](https://www.ifit.com/workout/63ac5ec7f57a1b0010ffce69): Unnamed Rd to Sunflower Farms ([4.1 mi](https://www.google.com/maps/dir/33.8417936,-111.4260122/33.862428,-111.4724182/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 22](https://aztrail.org/explore/passages/passage-22-saddle-mountain/): Saddle Mountain (16.6 mi)
 - [Workout 22.1](): Sunflower Farms to SR393 ([4.4 mi](https://www.google.com/maps/dir/33.862428,-111.4724182/33.9050945,-111.4945425/data=!3m1!1e3!4m2!4m1!3e2))
