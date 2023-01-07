@@ -167,12 +167,12 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 22.4](https://www.ifit.com/workout/63b9b3bdd1cdcb000fcf91a5): Unnamed Location to Mt Peeley Trailhead ([3.3 mi](https://www.google.com/maps/dir/33.9706426,-111.5026435/34.0021645,-111.4772296/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 23](https://aztrail.org/explore/passages/passage-23-mazatzal-divide/): Mazatzal Divide (24.3 mi)
-- [Workout 23.1](): Mt Peeley Trailhead to Unnamed Location ([3.3 mi](https://www.google.com/maps/dir/34.0021645,-111.4772296/34.0112049,-111.4987389/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 23.2](): Unnamed Location to Fisher Tank ([4.1 mi](https://www.google.com/maps/dir/34.0112049,-111.4987389/34.041175,-111.4796008/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 23.3](): Fisher Tank to Unnamed Location ([4.0 mi](https://www.google.com/maps/dir/34.041175,-111.4796008/34.073476,-111.479929/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 23.4](): Unnamed Location to Unnamed Location ([4.0 mi](https://www.google.com/maps/dir/34.073476,-111.479929/34.1070639,-111.4916553/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 23.5](): Unnamed Location to Unnamed Location ([4.0 mi](https://www.google.com/maps/dir/34.1070639,-111.4916553/34.1440126,-111.497962/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 23.6](): Unnamed Location to Unnamed Location ([3.8 mi](https://www.google.com/maps/dir/34.1440126,-111.497962/34.1802263,-111.5040685/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 23.1](https://www.ifit.com/workout/63b9b4719ccf130011f70af0): Mt Peeley Trailhead to Unnamed Location ([3.3 mi](https://www.google.com/maps/dir/34.0021645,-111.4772296/34.0112049,-111.4987389/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 23.2](https://www.ifit.com/workout/63b9b570e6fc9b000f07765e): Unnamed Location to Fisher Tank ([4.1 mi](https://www.google.com/maps/dir/34.0112049,-111.4987389/34.041175,-111.4796008/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 23.3](https://www.ifit.com/workout/63b9b6572dedaf000f7b4508): Fisher Tank to Unnamed Location ([4.0 mi](https://www.google.com/maps/dir/34.041175,-111.4796008/34.073476,-111.479929/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 23.4](https://www.ifit.com/workout/63b9b6fae6fc9b000f07772d): Unnamed Location to Unnamed Location ([4.0 mi](https://www.google.com/maps/dir/34.073476,-111.479929/34.1070639,-111.4916553/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 23.5](https://www.ifit.com/workout/63b9b790e6fc9b000f07775a): Unnamed Location to Unnamed Location ([4.0 mi](https://www.google.com/maps/dir/34.1070639,-111.4916553/34.1440126,-111.497962/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 23.6](https://www.ifit.com/workout/63b9b812d953dc000fdecce6): Unnamed Location to Unnamed Location ([3.8 mi](https://www.google.com/maps/dir/34.1440126,-111.497962/34.1802263,-111.5040685/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 24](https://aztrail.org/explore/passages/passage-24-red-hills/): Red Hills (10.9 mi)
 - [Workout 24.1](): Unnamed Location to Brush Spring ([4.2 mi](https://www.google.com/maps/dir/34.1802263,-111.5040685/34.1865731,-111.5420183/data=!3m1!1e3!4m2!4m1!3e2))
