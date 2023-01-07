@@ -161,10 +161,10 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 21.5](https://www.ifit.com/workout/63ac5ec7f57a1b0010ffce69): Unnamed Rd to Sunflower Farms ([4.1 mi](https://www.google.com/maps/dir/33.8417936,-111.4260122/33.862428,-111.4724182/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 22](https://aztrail.org/explore/passages/passage-22-saddle-mountain/): Saddle Mountain (16.6 mi)
-- [Workout 22.1](): Sunflower Farms to SR393 ([4.4 mi](https://www.google.com/maps/dir/33.862428,-111.4724182/33.9050945,-111.4945425/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 22.2](): SR393 to Trail Jct ([4.6 mi](https://www.google.com/maps/dir/33.862428,-111.4724182/33.9050945,-111.4945425/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 22.3](): Trail Jct to Unnamed Location ([3.8 mi](https://www.google.com/maps/dir/33.9402788,-111.5089787/33.9706426,-111.5026435/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 22.4](): Unnamed Location to Mt Peeley Trailhead ([3.3 mi](https://www.google.com/maps/dir/33.9706426,-111.5026435/34.0021645,-111.4772296/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 22.1](https://www.ifit.com/workout/63b9af7551c37a0010dca5fb): Sunflower Farms to SR393 ([4.4 mi](https://www.google.com/maps/dir/33.862428,-111.4724182/33.9050945,-111.4945425/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 22.2](https://www.ifit.com/workout/63b9b2ca94acf7000ff607c7): SR393 to Trail Jct ([4.6 mi]([https://www.google.com/maps/dir/33.862428,-111.4724182/33.9050945,-111.4945425/data=!3m1!1e3!4m2!4m1!3e2](https://www.google.com/maps/dir/33.90560913786615,+-111.49478083963737/33.9402788,-111.5089787/@33.9250266,-111.5192654,7088m/data=!3m1!1e3!4m7!4m6!1m3!2m2!1d-111.4947808!2d33.9056091!1m0!3e2)))
+- [Workout 22.3](https://www.ifit.com/workout/63b9b353daa2d90010403510): Trail Jct to Unnamed Location ([3.8 mi](https://www.google.com/maps/dir/33.9402788,-111.5089787/33.9706426,-111.5026435/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 22.4](https://www.ifit.com/workout/63b9b3bdd1cdcb000fcf91a5): Unnamed Location to Mt Peeley Trailhead ([3.3 mi](https://www.google.com/maps/dir/33.9706426,-111.5026435/34.0021645,-111.4772296/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 23](https://aztrail.org/explore/passages/passage-23-mazatzal-divide/): Mazatzal Divide (24.3 mi)
 - [Workout 23.1](): Mt Peeley Trailhead to Unnamed Location ([3.3 mi](https://www.google.com/maps/dir/34.0021645,-111.4772296/34.0112049,-111.4987389/data=!3m1!1e3!4m2!4m1!3e2))
