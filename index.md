@@ -212,11 +212,11 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 28.7](https://www.ifit.com/workout/63cda963d625d30011e39519): Fire Road Intersection to Gooseberry Springs Trailhead ([4.0 mi](https://www.google.com/maps/dir/34.7897675,-111.4022081/34.821265,-111.4318466/@34.8077947,-111.4284945,4959m/data=!3m1!1e3!4m9!4m8!1m5!3m4!1m2!1d-111.4157385!2d34.8033238!3s0x872dc8e52c677565:0x7fbbbda445ff3904!1m0!3e2))
 
 #### [Passage 29](https://aztrail.org/explore/passages/passage-29-mormon-lake/): Mormon Lake (14.8 mi)
-- [Workout 29.1](): Gooseberry Springs Trailhead to Unnamed Location ([4.0 mi](https://www.google.com/maps/dir/34.821265,-111.4318466/34.8661753,-111.4523132/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 29.2](): Unnamed Location to FR219A ([3.4 mi](https://www.google.com/maps/dir/34.8661753,-111.4523132/34.8980203,-111.4807284/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 29.3](): FR219A to Wallace Spring ([2.9 mi](https://www.google.com/maps/dir/34.8980203,-111.4807284/34.9248921,-111.4925737/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 29.4](): Wallace Spring to FR240 ([2.5 mi](https://www.google.com/maps/dir/34.9248921,-111.4925737/34.944631,-111.4971911/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 29.5](): Arizona Trail near FR240 to Mayflower Spring ([1.5 mi](https://www.google.com/maps/dir/34.950755,-111.4966787/'34.9659627,-111.4864747'/data=!3m1!1e3!4m7!4m6!1m0!1m3!2m2!1d-111.4864747!2d34.9659627!3e2))
+- [Workout 29.1](https://www.ifit.com/workout/63cdace26957590010597256): Gooseberry Springs Trailhead to Unnamed Location ([4.0 mi](https://www.google.com/maps/dir/34.821265,-111.4318466/34.8661753,-111.4523132/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 29.2](https://www.ifit.com/workout/63cdad846957590010597273): Unnamed Location to FR219A ([3.5 mi](https://www.google.com/maps/dir/34.8661753,-111.4523132/34.8980203,-111.4807284/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 29.3](https://www.ifit.com/workout/63cdadfa8ce4e60011a9c638): FR219A to Wallace Spring ([2.9 mi](https://www.google.com/maps/dir/34.8980203,-111.4807284/34.9248921,-111.4925737/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 29.4](https://www.ifit.com/workout/63cdae536cc0f40011df24b4): Wallace Spring to FR240 ([2.5 mi](https://www.google.com/maps/dir/34.9248921,-111.4925737/34.944631,-111.4971911/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 29.5](https://www.ifit.com/workout/63cdaef951f9370010951c75): Arizona Trail near FR240 to Mayflower Spring ([1.6 mi](https://www.google.com/maps/dir/34.950755,-111.4966787/'34.9659627,-111.4864747'/data=!3m1!1e3!4m7!4m6!1m0!1m3!2m2!1d-111.4864747!2d34.9659627!3e2))
 
 #### [Passage 30](https://aztrail.org/explore/passages/passage-30-anderson-mesa/): Anderson Mesa (17.8 mi)
 - [Workout 30.1](): Mayflower Spring to W Wiemer Springs Rd ([2.1 mi](https://www.google.com/maps/dir/34.9659627,-111.4864747/34.9844103,-111.4797839/data=!3m1!1e3!4m9!4m8!1m5!3m4!1m2!1d-111.48674!2d34.9669328!3s0x872dbff276ada0cd:0x817f6672498102e3!1m0!3e2))
