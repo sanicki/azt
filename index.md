@@ -188,11 +188,11 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 25.6](https://www.ifit.com/workout/63cda12251f9370010951a7a): Bradshaw Tank to Pine Trailhead ([1.7 mi](https://www.google.com/maps/dir/34.3675577,-111.4578598/34.374301,-111.4432062/data=!3m1!1e3!4m9!4m8!1m5!3m4!1m2!1d-111.4473265!2d34.3706062!3s0x872c3f0bbd2acfbd:0x4a5791dd9093aeff!1m0!3e2))
 
 #### [Passage 26](https://aztrail.org/explore/passages/passage-26-highline/): Highline (20.2 mi)
-- [Workout 26.1](): Pine Trailhead to Pine Spring ([4.2 mi](https://www.google.com/maps/dir/34.374301,-111.4432062/34.3782003,-111.3895432/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 26.2](): Pine Spring to NF440 ([3.0 mi](https://www.google.com/maps/dir/34.3782003,-111.3895432/34.4007772,-111.3655194/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 26.3](): NF440 to N Sycamore Creek ([3.9 mi](https://www.google.com/maps/dir/34.4007772,-111.3655194/34.4177535,-111.3178374/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 26.4](): N Sycamore Creek to Washington Park Trailhead ([4.2 mi](https://www.google.com/maps/dir/34.4177535,-111.3178374/34.4308212,-111.2612414/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 26.5](): Washington Park Trailhead to Old Rim Rd ([1.8 mi](https://www.google.com/maps/dir/34.4308212,-111.2612414/34.4538168,-111.250791/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 26.1](https://www.ifit.com/workout/63cda1a68f676a0010be6618): Pine Trailhead to Pine Spring ([4.2 mi](https://www.google.com/maps/dir/34.374301,-111.4432062/34.3782003,-111.3895432/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 26.2](https://www.ifit.com/workout/63cda20a51f9370010951aae): Pine Spring to NF440 ([3.0 mi](https://www.google.com/maps/dir/34.3782003,-111.3895432/34.4007772,-111.3655194/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 26.3](https://www.ifit.com/workout/63cda291853b010010c77039): NF440 to N Sycamore Creek ([3.9 mi](https://www.google.com/maps/dir/34.4007772,-111.3655194/34.4177535,-111.3178374/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 26.4](https://www.ifit.com/workout/63cda32160c28b000f90a61c): N Sycamore Creek to Washington Park Trailhead ([4.2 mi](https://www.google.com/maps/dir/34.4177535,-111.3178374/34.4308212,-111.2612414/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 26.5](https://www.ifit.com/workout/63cda3a0853b010010c770bc): Washington Park Trailhead to Old Rim Rd ([1.8 mi](https://www.google.com/maps/dir/34.4308212,-111.2612414/34.4538168,-111.250791/data=!3m1!1e3!4m2!4m1!3e2))
 
 ### Northern Passages
 
