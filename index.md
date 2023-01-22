@@ -175,9 +175,9 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 23.6](https://www.ifit.com/workout/63b9b812d953dc000fdecce6): Unnamed Location to Unnamed Location ([3.8 mi](https://www.google.com/maps/dir/34.1440126,-111.497962/34.1802263,-111.5040685/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 24](https://aztrail.org/explore/passages/passage-24-red-hills/): Red Hills (10.9 mi)
-- [Workout 24.1](): Unnamed Location to Brush Spring ([4.2 mi](https://www.google.com/maps/dir/34.1802263,-111.5040685/34.1865731,-111.5420183/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 24.2](): Brush Spring to Bullfrog Spring ([4.3 mi](https://www.google.com/maps/dir/34.1865731,-111.5420183/34.2189726,-111.5358428/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 24.3](): Bullfrog Spring to Rock Creek ([2.1 mi](https://www.google.com/maps/dir/34.2189726,-111.5358428/34.2294422,-111.5131471/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 24.1](https://www.ifit.com/workout/63cd9cd5057c220011c77374): Unnamed Location to Brush Spring ([4.2 mi](https://www.google.com/maps/dir/34.1802263,-111.5040685/34.1865731,-111.5420183/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 24.2](https://www.ifit.com/workout/63cd9d4af5f4bf001053d272): Brush Spring to Bullfrog Spring ([4.3 mi](https://www.google.com/maps/dir/34.1865731,-111.5420183/34.2189726,-111.5358428/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 24.3](https://www.ifit.com/workout/63cd9db2562b400011dc569c): Bullfrog Spring to Rock Creek ([2.1 mi](https://www.google.com/maps/dir/34.2189726,-111.5358428/34.2294422,-111.5131471/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 25](https://aztrail.org/explore/passages/passage-25-whiterock-mesa/): Whiterock Mesa (22.7 mi)
 - [Workout 25.1](): Rock Creek to Whiterock Spring ([3.2 mi](https://www.google.com/maps/dir/34.2294422,-111.5131471/34.2691257,-111.5186831/@data=!3m1!1e3!4m2!4m1!3e2))
