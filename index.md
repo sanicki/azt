@@ -180,12 +180,12 @@ A ✔️ indicates that I have completed the official passage IRL.
 - [Workout 24.3](https://www.ifit.com/workout/63cd9db2562b400011dc569c): Bullfrog Spring to Rock Creek ([2.1 mi](https://www.google.com/maps/dir/34.2189726,-111.5358428/34.2294422,-111.5131471/data=!3m1!1e3!4m2!4m1!3e2))
 
 #### [Passage 25](https://aztrail.org/explore/passages/passage-25-whiterock-mesa/): Whiterock Mesa (22.7 mi)
-- [Workout 25.1](): Rock Creek to Whiterock Spring ([3.2 mi](https://www.google.com/maps/dir/34.2294422,-111.5131471/34.2691257,-111.5186831/@data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 25.2](): Whiterock Spring to Saddle Ridge ([4.4 mi](https://www.google.com/maps/dir/34.2691257,-111.5186831/34.3190288,-111.5370433/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 25.3](): Saddle Ridge to Twin Buttes Rd ([4.5 mi](https://www.google.com/maps/dir/34.3190288,-111.5370433/34.3705552,-111.5443853/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 25.4](): Twin Buttes Rd to East Tank ([4.7 mi](https://www.google.com/maps/dir/34.3705552,-111.5443853/34.3340501,-111.4867937/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 25.5](): East Tank to Bradshaw Tank ([3.9 mi](https://www.google.com/maps/dir/34.3340501,-111.4867937/34.3675577,-111.4578598/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 25.6](): Bradshaw Tank to Pine Trailhead ([1.7 mi](https://www.google.com/maps/dir/34.3675577,-111.4578598/34.374301,-111.4432062/data=!3m1!1e3!4m9!4m8!1m5!3m4!1m2!1d-111.4473265!2d34.3706062!3s0x872c3f0bbd2acfbd:0x4a5791dd9093aeff!1m0!3e2))
+- [Workout 25.1](https://www.ifit.com/workout/63cd9e831f64050010d648e5): Rock Creek to Whiterock Spring ([3.2 mi](https://www.google.com/maps/dir/34.2294422,-111.5131471/34.2691257,-111.5186831/@34.2492665,-111.5325633,7029m/data=!3m2!1e3!4b1!4m2!4m1!3e2))
+- [Workout 25.2](https://www.ifit.com/workout/63cd9f10d158ce000f0833ca): Whiterock Spring to Saddle Ridge ([4.4 mi](https://www.google.com/maps/dir/34.2691257,-111.5186831/34.3190288,-111.5370433/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 25.3](https://www.ifit.com/workout/63cd9f921f64050010d6490f): Saddle Ridge to Twin Buttes Rd ([4.5 mi](https://www.google.com/maps/dir/34.3190288,-111.5370433/34.3705552,-111.5443853/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 25.4](https://www.ifit.com/workout/63cda00e174653001046e0bb): Twin Buttes Rd to East Tank ([4.7 mi](https://www.google.com/maps/dir/34.3705552,-111.5443853/34.3340501,-111.4867937/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 25.5](https://www.ifit.com/workout/63cda088d158ce000f08340b): East Tank to Bradshaw Tank ([3.9 mi](https://www.google.com/maps/dir/34.3340501,-111.4867937/34.3675577,-111.4578598/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 25.6](https://www.ifit.com/workout/63cda12251f9370010951a7a): Bradshaw Tank to Pine Trailhead ([1.7 mi](https://www.google.com/maps/dir/34.3675577,-111.4578598/34.374301,-111.4432062/data=!3m1!1e3!4m9!4m8!1m5!3m4!1m2!1d-111.4473265!2d34.3706062!3s0x872c3f0bbd2acfbd:0x4a5791dd9093aeff!1m0!3e2))
 
 #### [Passage 26](https://aztrail.org/explore/passages/passage-26-highline/): Highline (20.2 mi)
 - [Workout 26.1](): Pine Trailhead to Pine Spring ([4.2 mi](https://www.google.com/maps/dir/34.374301,-111.4432062/34.3782003,-111.3895432/data=!3m1!1e3!4m2!4m1!3e2))
