@@ -197,10 +197,10 @@ A ✔️ indicates that I have completed the official passage IRL.
 ### Northern Passages
 
 #### [Passage 27](https://aztrail.org/explore/passages/passage-27-blue-ridge/): Blue Ridge (15.4 mi)
-- [Workout 27.1](): Old Rim Rd to Private Rd ([3.9 mi](https://www.google.com/maps/dir/34.4538168,-111.250791/34.4954781,-111.2350644/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 27.2](): Private Rd to Trail Jct ([3.8 mi](https://www.google.com/maps/dir/34.4954781,-111.2350644/34.5321102,-111.2373311/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 27.3](): Trail Jct to FR751 ([3.5 mi](https://www.google.com/maps/dir/34.5321102,-111.2373311/34.5699269,-111.2256244/data=!3m1!1e3!4m2!4m1!3e2))
-- [Workout 27.4](): FR751 to AZ87 ([4.2 mi](https://www.google.com/maps/dir/34.5699269,-111.2256244/34.6076207,-111.2006639/data=!3m1!1e3!4m14!4m13!1m10!3m4!1m2!1d-111.2004273!2d34.5925036!3s0x872c2ecf06a0ca79:0x426fb80f44bd4daf!3m4!1m2!1d-111.1971209!2d34.5984884!3s0x872c2ec9d2f5e2af:0xd78f456723b70ea5!1m0!3e2))
+- [Workout 27.1](https://www.ifit.com/workout/63cda4399d1461000f5f8ca7): Old Rim Rd to Private Rd ([3.9 mi](https://www.google.com/maps/dir/34.4538168,-111.250791/34.4954781,-111.2350644/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 27.2](https://www.ifit.com/workout/63cda4a96cc0f40011df233b): Private Rd to Trail Jct ([3.8 mi](https://www.google.com/maps/dir/34.4954781,-111.2350644/34.5321102,-111.2373311/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 27.3](https://www.ifit.com/workout/63cda53103119e0011c4ebd5): Trail Jct to FR751 ([3.5 mi](https://www.google.com/maps/dir/34.5321102,-111.2373311/34.5699269,-111.2256244/data=!3m1!1e3!4m2!4m1!3e2))
+- [Workout 27.4](https://www.ifit.com/workout/63cda5c14319c40010ea118e): FR751 to AZ87 ([4.2 mi](https://www.google.com/maps/dir/34.5699269,-111.2256244/34.6076207,-111.2006639/@34.5910052,-111.2277215,5913m/data=!3m1!1e3!4m14!4m13!1m10!3m4!1m2!1d-111.2004273!2d34.5925036!3s0x872c2ecf06a0ca79:0x426fb80f44bd4daf!3m4!1m2!1d-111.1971209!2d34.5984884!3s0x872c2ec9d2f5e2af:0xd78f456723b70ea5!1m0!3e2))
 
 #### [Passage 28](https://aztrail.org/explore/passages/passage-28-happy-jack/): Happy Jack (29.4 mi)
 - [Workout 28.1](): AZ87 to FR82 ([4.7 mi](https://www.google.com/maps/dir/34.6076207,-111.2006639/34.6534559,-111.2334505/data=!3m1!1e3!4m2!4m1!3e2))
